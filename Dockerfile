@@ -1,0 +1,3 @@
+FROM couchbase:community
+
+EXPOSE 8091 8092 8093 8094 8095 8096 11210
